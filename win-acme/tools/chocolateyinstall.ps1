@@ -3,12 +3,12 @@ $packageArgs = @{
 
   UnzipLocation          = "$(Split-Path -Parent $MyInvocation.MyCommand.Definition)"
   
-  Url                    = 'https://github.com/win-acme/win-acme/releases/download/v2.1.12/win-acme.v2.1.12.943.x86.pluggable.zip'
-  Checksum               = 'A890DB34B78562F37D4D482EC3121890DC2FF18C91DF79A2FA3BC1F258CEA753'
+  Url                    = 'https://github.com/win-acme/win-acme/releases/download/v2.1.15/win-acme.v2.1.15.1008.x86.pluggable.zip'
+  Checksum               = 'A4479C0A09DFDCAA625D40C26E619CC5275D6FA436DF4A3A112A5921CD2DE283'
   ChecksumType           = 'sha256'
 
-  Url64bit               = 'https://github.com/win-acme/win-acme/releases/download/v2.1.12/win-acme.v2.1.12.943.x64.pluggable.zip'
-  Checksum64             = 'C761F708EF5ADE7C988AA8093181682F21206F2A1655317A5B8C12D06FC49D4D'
+  Url64bit               = 'https://github.com/win-acme/win-acme/releases/download/v2.1.15/win-acme.v2.1.15.1008.x64.pluggable.zip'
+  Checksum64             = 'E51401E1A4A8482A8A9220590473570B013A1AE27D267DEF6A6A6DC8DD162714'
   ChecksumType64         = 'sha256'
 }
 

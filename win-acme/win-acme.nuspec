@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>win-acme</id>
-    <version>2.1.12.943</version>
+    <version>2.1.15.1008</version>
     <title>win-acme</title>
     <authors>PKISharp</authors>
     <owners>ducksecops</owners>
@@ -12,7 +12,7 @@
     <description>This is a ACMEv2 client for Windows that aims to be very simple to start with, but powerful enough to grow into almost every scenario.</description>
     <summary>A simple ACME client for Windows (for use with Let's Encrypt et al.)</summary>
     <releaseNotes>https://github.com/PKISharp/win-acme/releases</releaseNotes>
-    <copyright>2020 PKISharp</copyright>
+    <copyright>2021 PKISharp</copyright>
     <tags>win-acme iis acme letsencrypt</tags>
     <packageSourceUrl>https://github.com/ducksecops/chocolatey/tree/master/win-acme</packageSourceUrl>
     <docsUrl>https://www.win-acme.com/reference/cli</docsUrl>
